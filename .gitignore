@@ -1,0 +1,90 @@
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+
+[Dd]ebug*/
+[Rr]elease/
+[Tt]emp/*
+![Tt]emp/.gitignore
+build/
+.JustCode/SCFitness2-VS2012.solution-user.settings.xml
+
+[Tt]est[Rr]esult
+[Bb]uild[Ll]og.*
+
+DebugLogs/*
+!DebugLogs/.gitignore
+
+Config/server/*.config
+Config/local/*
+!Config/local/.gitignore
+
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.vspscc
+*.vssscc
+.builds
+*.mswwsettings
+
+*.pidb
+
+*.log
+*.scc
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+
+# Visual Studio profiler
+*.psess
+*.vsp
+
+# DB Testing pages
+TestStoredProcs*.*
+
+# Click-Once directory
+publish
+
+# Publish Web Output
+*.Publish.xml
+
+
+# Others
+# [Bb]in
+[Oo]bj
+sql
+TestResults
+[Tt]est[Rr]esult*
+*.Cache
+ClientBin
+[Ss]tyle[Cc]op.*
+~$*
+*.dbmdl
+
+
+*.[Pp]ublish.xml
+
+# Backup & report files from converting an old project file to a newer
+# Visual Studio version. Backup files are not needed, because we have git ;-)
+_UpgradeReport_Files/
+Backup*/
+/Bin/GnuPGDotNet.dll.refresh
