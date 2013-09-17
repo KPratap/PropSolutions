@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PSLogin", "PSLogin\", "{56115265-C43F-44A5-9A44-44C426A987B4}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		Debug.AspNetCompiler.VirtualPath = "/PSLogin"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\Development\PropSolutions\PSInterface\PSLogin\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\PSLogin\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/PSLogin"
+		Release.AspNetCompiler.PhysicalPath = "..\..\Development\PropSolutions\PSInterface\PSLogin\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\PSLogin\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55521"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56115265-C43F-44A5-9A44-44C426A987B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56115265-C43F-44A5-9A44-44C426A987B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

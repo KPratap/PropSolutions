@@ -17,7 +17,8 @@ namespace PSInterface
     public class OAuth2
     {
         private static string _apiurl = "https://sync.propertysolutions.com/api/oauth";
-        private static string _clientId = "dde8541e13ec4ed241f9.rent_rec";  // Supplied by property Solutions
+        private static string _clientId = "80aa0055c39ea084d2bd.rrs_mult";
+            //"dde8541e13ec4ed241f9.rent_rec";  // Supplied by property Solutions
         private static string _clientSecret = "57102b11720fd1c7cb9b08cd50e6374e"; // Supplied by property Solutions
 
 

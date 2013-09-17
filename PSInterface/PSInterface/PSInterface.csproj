@@ -38,10 +38,10 @@
   <ItemGroup>
     <Reference Include="FileHelpers, Version=2.0.0.0, Culture=neutral, PublicKeyToken=3e0c08d59cc3d657, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Release\FileHelpers.dll</HintPath>
+      <HintPath>..\..\..\..\ExternalSoftware\FileHelpers\Binaries\DotNet 2.0\FileHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>..\..\..\..\Downloads\Jsonnet\Bin\Net20\Newtonsoft.Json.dll</HintPath>
+      <HintPath>..\..\..\..\ExternalSoftware\NewtonSoft DotNet 2.0\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />

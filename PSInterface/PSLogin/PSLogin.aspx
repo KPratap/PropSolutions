@@ -119,7 +119,7 @@
             <table cellpadding="0" cellspacing="0">
                 <tr>
                     <td>
-                        <img src="http://rentrecoverysolutions.com/img/RecoveryImages/MainLogo/RRS_Logo5.png" alt="Rent Recovery Solutions" />
+                        <img src="http://rentrecoverysolutions.com/Images/RRS_Logo5.png" alt="Rent Recovery Solutions" />
                     </td>
                     <td style="width: 140px;">
                     </td>
